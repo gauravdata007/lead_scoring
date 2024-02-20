@@ -39,7 +39,7 @@ The steps are we are using broadly as:-
 
 Files attached are as:-
 1. Lead Scoring Case study assignment (1).IPYNB
-2. Assignment Subjective Questions
-3. lead_score_study_ppt_pdf
-4. lead_score_study_ppt_pdf
+2. Assignment Subjective Questions.pdf
+3. lead_score_study_ppt_pdf.pdf
+4. Summary.pdf
 5. README.md
